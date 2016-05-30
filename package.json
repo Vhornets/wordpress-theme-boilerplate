@@ -1,0 +1,18 @@
+{
+    "name": "bootstrap_project",
+    "description": "",
+    "version": "0.0.1",
+    "homepage": "http://",
+    "author": "Victor Hornets",
+    "devDependencies": {
+        "grunt": "~0.4.5",
+        "grunt-contrib-less": "~1.0.0",
+        "grunt-contrib-uglify": "~0.7.0",
+        "grunt-contrib-watch": "~0.6.1",
+        "grunt-notify": "^0.4.1",
+        "grunt-spritesmith": "^4.1.0"
+    },
+    "engines": {
+        "node": "~0.10.1"
+    }
+}

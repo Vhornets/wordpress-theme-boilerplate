@@ -1,0 +1,6 @@
+{
+    "name": "bootstrap-less-grunt-template",
+    "require": {
+        "webdevstudios/cmb2": "*"
+    }
+}
