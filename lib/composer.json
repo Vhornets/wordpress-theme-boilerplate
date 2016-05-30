@@ -1,6 +1,6 @@
 {
-    "name": "bootstrap-less-grunt-template",
+    "name": "wordpress-theme-boilerplate",
     "require": {
-        "webdevstudios/cmb2": "*"
+        "webdevstudios/cmb2": "dev-master"
     }
 }

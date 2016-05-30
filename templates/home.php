@@ -1,3 +1,11 @@
+<?php
+/**
+* Template Name: Главная
+*/
+
+$f = VH_Fields::getInstance();
+?>
+
 <?php get_header(); ?>
 
     <?php if(have_posts()): while(have_posts()): the_post(); ?>

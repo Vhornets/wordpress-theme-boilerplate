@@ -3,7 +3,7 @@ if (file_exists(dirname(__FILE__) . '/lib/vendor/autoload.php')) {
     require_once dirname(__FILE__) . '/lib/vendor/autoload.php';
 }
 
-require_once 'lib/CMB2/init.php';
+require_once 'lib/vendor/webdevstudios/cmb2/init.php';
 require_once 'lib/VHFields.php';
 require_once 'lib/metaboxes.php';
 require_once 'lib/admin-options.php';
